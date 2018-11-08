@@ -1,0 +1,23 @@
+{
+ "students": [
+    "Kevin Becker",
+    "Eliza Carrington",
+    "Jung-Tsung Chiang",
+    "Ziyi Fu",
+    "Kristopher Grant",
+    "Qianqian Jin",
+    "Jared Le Doux",
+    "Jana Ma",
+    "Cole Masaitis",
+    "Edward Raven",
+    "Charles Sehres",
+    "Calvin Smith",
+    "Thomas Soto"
+ ],
+ "classCode": "TAC300",
+ "classTitle": "Intro to Computer Science",
+ "textbook": {
+   "title": "Javascript and jQuery",
+   "author": "Jon Duckett"
+ }
+}
